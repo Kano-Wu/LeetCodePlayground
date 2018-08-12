@@ -5,3 +5,4 @@
 
 66. 加一 [description](https://leetcode-cn.com/problems/plus-one/description/)
 
+217. 存在重复元素 [description](https://leetcode-cn.com/problems/contains-duplicate/description/)
